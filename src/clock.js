@@ -3,7 +3,6 @@ import '../src/clock.css';
 
 
 
-
 const Clock = () => {
 
 const [time, setTime] = useState(new Date().toLocaleTimeString());
