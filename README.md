@@ -1,3 +1,9 @@
+# Clock WebApp
+
+Practice Clock WebApp created using React JS
+this app displays the current time as the users device
+
+## Demo This site is Hosted on [Heroku](https://clockproject.herokuapp.com/).
 
 
 ## Available Scripts
