@@ -5,9 +5,9 @@ this app displays the current time as the users device
 
 ### `Demo: This site is Hosted on [Heroku](https://clockproject.herokuapp.com/) or use https://clockproject.herokuapp.com'
 
-![IMG_3890](https://user-images.githubusercontent.com/67777018/183536217-a3e9deb7-97c6-43a1-894b-bf8ee1a1b53b.jpeg)
-
 <img width="1417" alt="Screen shot 1" src="https://user-images.githubusercontent.com/67777018/183536233-eeb1f2f3-6574-49f2-a0f6-549d60ea7501.png">
+
+![IMG_3890](https://user-images.githubusercontent.com/67777018/183536217-a3e9deb7-97c6-43a1-894b-bf8ee1a1b53b.jpeg =250x250)
 
 ## Features
 Full Screen Mode: Located on the top-left corner of the screen. Fulscreen Mode is a button that enables the user to view the Clock in full screen tip :- Works as a nice lockscreen background. 
@@ -42,5 +42,3 @@ Your app is ready to be deployed!
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
 
-![IMG_3890](https://user-images.githubusercontent.com/67777018/183536217-a3e9deb7-97c6-43a1-894b-bf8ee1a1b53b.jpeg)
-<img width="1417" alt="Screen shot 1" src="https://user-images.githubusercontent.com/67777018/183536233-eeb1f2f3-6574-49f2-a0f6-549d60ea7501.png">
