@@ -5,7 +5,7 @@ this app displays the current time as the users device
 
 ### `Demo: This site is Hosted on [Heroku](https://clockproject.herokuapp.com/) or use https://clockproject.herokuapp.com'
 
-<img width="1417" alt="Screen shot 1" src="https://user-images.githubusercontent.com/67777018/183536233-eeb1f2f3-6574-49f2-a0f6-549d60ea7501.png" width=500 height= 300>
+<img width="1417" alt="Screen shot 1" src="https://user-images.githubusercontent.com/67777018/183536233-eeb1f2f3-6574-49f2-a0f6-549d60ea7501.png" width=250 height= 200>
 
 ![IMG_3890](https://user-images.githubusercontent.com/67777018/183536217-a3e9deb7-97c6-43a1-894b-bf8ee1a1b53b.jpeg =250x250)
 
