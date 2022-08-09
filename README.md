@@ -3,8 +3,12 @@
 Practice Clock WebApp created using React JS
 this app displays the current time as the users device
 
-## `Demo: This site is Hosted on [Heroku](https://clockproject.herokuapp.com/) or use (https://clockproject.herokuapp.com/)'
+### `Demo: This site is Hosted on [Heroku](https://clockproject.herokuapp.com/) or use https://clockproject.herokuapp.com'
 
+## Features
+Full Screen Mode: Located on the top-left corner of the screen. Fulscreen Mode is a button that enables the user to view the Clock in full screen tip :- Works as a nice lockscreen background. 
+
+Clock: Displays the current time respective to the users device.
 
 ## Available Scripts
 
